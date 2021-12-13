@@ -1,1 +1,1 @@
-# COVID-19-dashboard
+# COVID19-dashboard
